@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+    <persistence-unit name="my-unit">
+        <class>com.frankmoley.lil.learningspring.data.entity.Reservation</class>
+        <class>com.frankmoley.lil.learningspring.data.entity.Room</class>
+        <class>com.frankmoley.lil.learningspring.data.entity.Guest</class>
+    </persistence-unit>
+
+</persistence>
